@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(40deg, violet,dodgerblue, rgb(0, 243, 202));
+}
+.log{
+    text-align: center;
+    color: white;
+    padding-top: 90px;
+    padding-left: 20px;
+}
+.logo{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.icons{
+    text-align: center;
+    padding-top: 20px;
+   font-size: 15px;
+   color: white;
+}
+.icons i{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.logi{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+.btc{
+    display: flex;
+}
+.btn{
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    display: block;
+    margin-left: 500px;
+    margin-top: 20px;
+    background: #D16BA5;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.433);
+}
+.btn1{
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    display: block;
+    margin-left: 30px;
+    margin-top: 20px;
+    background: #86abe7;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.433);
+}
+.btn2{
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    display: block;
+    margin-left: 30px;
+    margin-top: 20px;
+    background: #5ffbf1;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.433);
+}
+.btn3{
+    padding-right: 10px;
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 700px;
+    margin-top: 40px;
+    background: #11b7a6;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.433);
+}
+i{
+    padding-right: 15px;
+}
